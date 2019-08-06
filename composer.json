@@ -1,0 +1,10 @@
+{
+    "name": "pollozen/oc-mostvisited-plugin",
+    "type": "october-plugin",
+    "description": "Plugin for register visits on RainLab blog posts and retrieve a list for most visited posts",
+    "authors": [
+        {
+            "name": "PolloZen"
+        }
+    ]
+}
